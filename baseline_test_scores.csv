@@ -1,0 +1,3 @@
+Test set,Images,Accuracy (%),Macro-F1 (%)
+PlantVillage test,2757,92.46,92.08
+PlantDoc test,99,33.33,34.89
