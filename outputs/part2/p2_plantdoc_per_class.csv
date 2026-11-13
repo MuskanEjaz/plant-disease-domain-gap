@@ -1,0 +1,13 @@
+Class,Precision,Recall,F1,Test images
+Apple___Apple_scab,1.0,0.9,0.9473684210526315,10
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,1.0,1.0,1.0,4
+Grape___Black_rot,1.0,1.0,1.0,8
+Potato___Early_blight,0.6666666666666666,0.25,0.36363636363636365,8
+Potato___Late_blight,0.4,0.75,0.5217391304347826,8
+Squash___Powdery_mildew,1.0,1.0,1.0,6
+Tomato___Bacterial_spot,0.5714285714285714,0.4444444444444444,0.5,9
+Tomato___Early_blight,0.7777777777777778,0.7777777777777778,0.7777777777777778,9
+Tomato___Late_blight,0.6,0.6,0.6,10
+Tomato___Leaf_Mold,0.3333333333333333,0.3333333333333333,0.3333333333333333,6
+Tomato___Septoria_leaf_spot,0.47058823529411764,0.7272727272727273,0.5714285714285714,11
+Tomato___Tomato_mosaic_virus,0.8,0.4,0.5333333333333333,10

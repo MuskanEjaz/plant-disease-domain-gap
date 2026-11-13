@@ -1,0 +1,3 @@
+,accuracy,macro_f1,Images
+PlantVillage test,92.46,92.08,2757
+PlantDoc test,33.33,34.89,99

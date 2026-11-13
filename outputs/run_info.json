@@ -1,0 +1,16 @@
+{
+  "b0_epoch": 3,
+  "b0_val_f1": 0.9240813455327208,
+  "e1_epoch": 26,
+  "e2_epoch": 15,
+  "field_pool": 1071,
+  "field_adapt": 856,
+  "field_val": 215,
+  "near_duplicate_files": 4,
+  "near_duplicate_pairs": 4,
+  "exact_overlap": 6,
+  "plantdoc_train_files": 1083,
+  "plantdoc_train_unique": 1082,
+  "device": "mps",
+  "smoke": false
+}

@@ -1,0 +1,5 @@
+plantdoc_train,plantdoc_test,dhash_distance
+~/Desktop/Plant_Disease_Domain_Gap/data/PlantDoc/train/Tomato leaf late blight/late_blight1.jpg,~/Desktop/Plant_Disease_Domain_Gap/data/PlantDoc/test/Tomato leaf late blight/18c.jpg,0
+~/Desktop/Plant_Disease_Domain_Gap/data/PlantDoc/train/Tomato leaf late blight/tomato-late-blight-foliar-lesions_Scot-Nelson_CC-BY-SA-2.0.jpg,~/Desktop/Plant_Disease_Domain_Gap/data/PlantDoc/test/Potato leaf late blight/5816740026_d42ef24413_Phytophthora-Infestans.jpg,0
+~/Desktop/Plant_Disease_Domain_Gap/data/PlantDoc/train/Tomato leaf bacterial spot/bacterial-canker3x2400-2ia1kgd.jpg,~/Desktop/Plant_Disease_Domain_Gap/data/PlantDoc/test/Tomato leaf bacterial spot/07.17.18-Common_Tomato_Diseases_Canker-258x300.jpg,0
+~/Desktop/Plant_Disease_Domain_Gap/data/PlantDoc/train/Tomato Early blight leaf/earlyblightpotato.jpg,~/Desktop/Plant_Disease_Domain_Gap/data/PlantDoc/test/Potato leaf early blight/earlyblightpotato.jpg,0

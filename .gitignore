@@ -1,0 +1,7 @@
+# datasets and large files stay out of git
+data/
+*.pt
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

@@ -1,0 +1,14 @@
+,Source train,Source val,PlantVillage test,Field adapt,Field val,PlantDoc test
+Apple___Apple_scab,428,75,127,66,17,10
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,345,61,107,51,13,4
+Grape___Black_rot,860,152,168,45,11,8
+Potato___Early_blight,711,125,164,84,21,8
+Potato___Late_blight,670,118,212,76,19,8
+Squash___Powdery_mildew,1238,219,378,99,25,6
+Tomato___Bacterial_spot,1437,254,436,80,20,9
+Tomato___Early_blight,667,118,215,63,15,9
+Tomato___Late_blight,1297,229,375,79,20,10
+Tomato___Leaf_Mold,663,117,172,68,17,6
+Tomato___Septoria_leaf_spot,1219,215,337,110,28,11
+Tomato___Tomato_mosaic_virus,261,46,66,35,9,10
+Total,9796,1729,2757,856,215,99
